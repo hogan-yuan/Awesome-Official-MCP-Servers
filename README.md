@@ -4,13 +4,18 @@
 
 ## 官方 MCP 服务器列表
 
-- [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
-- [mendableai/firecrawl-mcp-server](https://github.com/mendableai/firecrawl-mcp-server) - Official Firecrawl MCP Server - Adds powerful web scraping to Cursor, Claude and any other LLM clients.
-- [makenotion/notion-mcp-server](https://github.com/makenotion/notion-mcp-server) - Official Notion MCP Server
-- [elevenlabs/elevenlabs-mcp](https://github.com/elevenlabs/elevenlabs-mcp) - The official ElevenLabs MCP server
-- [qdrant/mcp-server-qdrant](https://github.com/qdrant/mcp-server-qdrant) - An official Qdrant Model Context Protocol (MCP) server implementation
-- [cline/mcp-marketplace](https://github.com/cline/mcp-marketplace) - This is the official repository for submitting MCP servers to be included in Cline's MCP Marketplace. If you’ve built an MCP server and want it to be discoverable and easily installable by millions of developers using Cline, submit your server here.
-- [MiniMax-AI/MiniMax-MCP](https://github.com/MiniMax-AI/MiniMax-MCP) - Official MiniMax Model Context Protocol (MCP) server that enables interaction with powerful Text to Speech, image generation and video generation APIs.
-- [line/line-bot-mcp-server](https://github.com/line/line-bot-mcp-server) - MCP server that integrates the LINE Messaging API to connect an AI Agent to the LINE Official Account.
-- [razorpay/razorpay-mcp-server](https://github.com/razorpay/razorpay-mcp-server) - Razorpay's Official MCP Server
-- [VAST-AI-Research/tripo-mcp](https://github.com/VAST-AI-Research/tripo-mcp) - Official MCP server for Tripo
+以下表格列出了常见的官方 MCP 服务器，更多官方集成请查看 [official_servers.md](official_servers.md)。
+
+| 项目 | Stars | 英文说明 | 中文说明 |
+| --- | --- | --- | --- |
+| [github/github-mcp-server](https://github.com/github/github-mcp-server) | ![GitHub Repo stars](https://img.shields.io/github/stars/github/github-mcp-server?style=social) | GitHub's official MCP Server | GitHub 官方 MCP 服务器 |
+| [mendableai/firecrawl-mcp-server](https://github.com/mendableai/firecrawl-mcp-server) | ![GitHub Repo stars](https://img.shields.io/github/stars/mendableai/firecrawl-mcp-server?style=social) | Official Firecrawl MCP Server - Adds powerful web scraping to Cursor, Claude and any other LLM clients. | Firecrawl 官方 MCP 服务器，提供网页抓取能力 |
+| [makenotion/notion-mcp-server](https://github.com/makenotion/notion-mcp-server) | ![GitHub Repo stars](https://img.shields.io/github/stars/makenotion/notion-mcp-server?style=social) | Official Notion MCP Server | Notion 官方 MCP 服务器 |
+| [elevenlabs/elevenlabs-mcp](https://github.com/elevenlabs/elevenlabs-mcp) | ![GitHub Repo stars](https://img.shields.io/github/stars/elevenlabs/elevenlabs-mcp?style=social) | The official ElevenLabs MCP server | ElevenLabs 官方 MCP 服务器 |
+| [qdrant/mcp-server-qdrant](https://github.com/qdrant/mcp-server-qdrant) | ![GitHub Repo stars](https://img.shields.io/github/stars/qdrant/mcp-server-qdrant?style=social) | An official Qdrant Model Context Protocol (MCP) server implementation | Qdrant 官方实现 |
+| [cline/mcp-marketplace](https://github.com/cline/mcp-marketplace) | ![GitHub Repo stars](https://img.shields.io/github/stars/cline/mcp-marketplace?style=social) | Official repository for submitting MCP servers to be included in Cline's MCP Marketplace | Cline 官方市场提交仓库 |
+| [MiniMax-AI/MiniMax-MCP](https://github.com/MiniMax-AI/MiniMax-MCP) | ![GitHub Repo stars](https://img.shields.io/github/stars/MiniMax-AI/MiniMax-MCP?style=social) | Official MiniMax MCP server that enables interaction with Text to Speech, image generation and video generation APIs | MiniMax 官方 MCP 服务器，支持语音、图像和视频生成 |
+| [line/line-bot-mcp-server](https://github.com/line/line-bot-mcp-server) | ![GitHub Repo stars](https://img.shields.io/github/stars/line/line-bot-mcp-server?style=social) | MCP server integrating the LINE Messaging API | 集成 LINE Messaging API 的 MCP 服务器 |
+| [razorpay/razorpay-mcp-server](https://github.com/razorpay/razorpay-mcp-server) | ![GitHub Repo stars](https://img.shields.io/github/stars/razorpay/razorpay-mcp-server?style=social) | Razorpay's Official MCP Server | Razorpay 官方 MCP 服务器 |
+| [VAST-AI-Research/tripo-mcp](https://github.com/VAST-AI-Research/tripo-mcp) | ![GitHub Repo stars](https://img.shields.io/github/stars/VAST-AI-Research/tripo-mcp?style=social) | Official MCP server for Tripo | Tripo 官方 MCP 服务器 |
+
